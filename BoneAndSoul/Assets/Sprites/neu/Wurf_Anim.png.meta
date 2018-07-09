@@ -1,0 +1,101 @@
+fileFormatVersion: 2
+guid: a1f35afab79e0b54eace4e36f48fbe15
+timeCreated: 1484239708
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Wurf_Anim_0
+    21300002: Wurf_Anim_1
+    21300004: Wurf_Anim_2
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Wurf_Anim_0
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 331
+        width: 132
+        height: 135
+      alignment: 9
+      pivot: {x: 0.25496328, y: 0.2040342}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wurf_Anim_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 360
+        width: 129
+        height: 113
+      alignment: 9
+      pivot: {x: 0.7971091, y: 0.2713588}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wurf_Anim_2
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 185
+        width: 237
+        height: 75
+      alignment: 9
+      pivot: {x: 0.86928844, y: 0.5126845}
+      border: {x: 1, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

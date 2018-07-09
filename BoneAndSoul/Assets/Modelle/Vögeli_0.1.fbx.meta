@@ -1,0 +1,441 @@
+fileFormatVersion: 2
+guid: 188905468c4fc3e43a997e3a35198396
+timeCreated: 1485196671
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bone.001
+    100002: Bone.002
+    100004: Bone.003
+    100006: Bone.003_end
+    100008: Bone.004
+    100010: Bone.005
+    100012: Bone.006
+    100014: Bone.007
+    100016: Bone.008
+    100018: Bone.009
+    100020: Bone.010
+    100022: Bone.011
+    100024: Bone.012
+    100026: Bone.012_end
+    100028: Bone.014
+    100030: Bone.014_end
+    100032: Bone.017
+    100034: Bone.018
+    100036: Bone.020
+    100038: Bone.020_end
+    100040: Bone.021
+    100042: Bone.021_end
+    100044: Bone.022
+    100046: Bone.022_end
+    100048: Bone.023
+    100050: Bone.023_end
+    100052: Cube
+    100054: Fuss_1
+    100056: Fuss_1_end
+    100058: IK_1
+    100060: IK_1 1
+    100062: IK_1_end
+    100064: IK_2
+    100066: IK_2_end
+    100068: //RootNode
+    400000: Bone.001
+    400002: Bone.002
+    400004: Bone.003
+    400006: Bone.003_end
+    400008: Bone.004
+    400010: Bone.005
+    400012: Bone.006
+    400014: Bone.007
+    400016: Bone.008
+    400018: Bone.009
+    400020: Bone.010
+    400022: Bone.011
+    400024: Bone.012
+    400026: Bone.012_end
+    400028: Bone.014
+    400030: Bone.014_end
+    400032: Bone.017
+    400034: Bone.018
+    400036: Bone.020
+    400038: Bone.020_end
+    400040: Bone.021
+    400042: Bone.021_end
+    400044: Bone.022
+    400046: Bone.022_end
+    400048: Bone.023
+    400050: Bone.023_end
+    400052: Cube
+    400054: Fuss_1
+    400056: Fuss_1_end
+    400058: IK_1
+    400060: IK_1 1
+    400062: IK_1_end
+    400064: IK_2
+    400066: IK_2_end
+    400068: //RootNode
+    4300000: Cube
+    7400000: IK_1|Fliegen
+    7400002: IK_1|Idle
+    7400004: IK_1|Walk
+    9500000: //RootNode
+    13700000: Cube
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: IK_1|Fliegen
+      takeName: IK_1|Fliegen
+      firstFrame: 0
+      lastFrame: 33
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: IK_1
+        weight: 1
+      - path: IK_1/Bone.001
+        weight: 1
+      - path: IK_1/Bone.001/Bone.002
+        weight: 1
+      - path: IK_1/Bone.001/Bone.002/Bone.003
+        weight: 1
+      - path: IK_1/Bone.001/Bone.002/Bone.003/Bone.003_end
+        weight: 1
+      - path: IK_1/Bone.001/Bone.004
+        weight: 1
+      - path: IK_1/Bone.001/Bone.004/Bone.005
+        weight: 1
+      - path: IK_1/Bone.001/Bone.004/Bone.005/Bone.006
+        weight: 1
+      - path: IK_1/Bone.001/Bone.004/Bone.005/Bone.006/Bone.020
+        weight: 1
+      - path: IK_1/Bone.001/Bone.004/Bone.005/Bone.006/Bone.020/Bone.020_end
+        weight: 1
+      - path: IK_1/Bone.001/Bone.007
+        weight: 1
+      - path: IK_1/Bone.001/Bone.007/Bone.008
+        weight: 1
+      - path: IK_1/Bone.001/Bone.007/Bone.008/Bone.009
+        weight: 1
+      - path: IK_1/Bone.001/Bone.007/Bone.008/Bone.009/Bone.023
+        weight: 1
+      - path: IK_1/Bone.001/Bone.007/Bone.008/Bone.009/Bone.023/Bone.023_end
+        weight: 1
+      - path: IK_1/Bone.001/Bone.014
+        weight: 1
+      - path: IK_1/Bone.001/Bone.014/Bone.014_end
+        weight: 1
+      - path: IK_1/Bone.010
+        weight: 1
+      - path: IK_1/Bone.010/Bone.017
+        weight: 1
+      - path: IK_1/Bone.010/Bone.017/Fuss_1
+        weight: 1
+      - path: IK_1/Bone.010/Bone.017/Fuss_1/Fuss_1_end
+        weight: 1
+      - path: IK_1/Bone.011
+        weight: 1
+      - path: IK_1/Bone.011/Bone.018
+        weight: 1
+      - path: IK_1/Bone.011/Bone.018/Bone.012
+        weight: 1
+      - path: IK_1/Bone.011/Bone.018/Bone.012/Bone.012_end
+        weight: 1
+      - path: IK_1/Bone.021
+        weight: 1
+      - path: IK_1/Bone.021/Bone.021_end
+        weight: 1
+      - path: IK_1/Bone.022
+        weight: 1
+      - path: IK_1/Bone.022/Bone.022_end
+        weight: 1
+      - path: IK_1/IK_1 1
+        weight: 1
+      - path: IK_1/IK_1 1/IK_1_end
+        weight: 1
+      - path: IK_1/IK_2
+        weight: 1
+      - path: IK_1/IK_2/IK_2_end
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: IK_1|Idle
+      takeName: IK_1|Idle
+      firstFrame: 0
+      lastFrame: 158
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: IK_1
+        weight: 1
+      - path: IK_1/Bone.001
+        weight: 1
+      - path: IK_1/Bone.001/Bone.002
+        weight: 1
+      - path: IK_1/Bone.001/Bone.002/Bone.003
+        weight: 1
+      - path: IK_1/Bone.001/Bone.002/Bone.003/Bone.003_end
+        weight: 1
+      - path: IK_1/Bone.001/Bone.004
+        weight: 1
+      - path: IK_1/Bone.001/Bone.004/Bone.005
+        weight: 1
+      - path: IK_1/Bone.001/Bone.004/Bone.005/Bone.006
+        weight: 1
+      - path: IK_1/Bone.001/Bone.004/Bone.005/Bone.006/Bone.020
+        weight: 1
+      - path: IK_1/Bone.001/Bone.004/Bone.005/Bone.006/Bone.020/Bone.020_end
+        weight: 1
+      - path: IK_1/Bone.001/Bone.007
+        weight: 1
+      - path: IK_1/Bone.001/Bone.007/Bone.008
+        weight: 1
+      - path: IK_1/Bone.001/Bone.007/Bone.008/Bone.009
+        weight: 1
+      - path: IK_1/Bone.001/Bone.007/Bone.008/Bone.009/Bone.023
+        weight: 1
+      - path: IK_1/Bone.001/Bone.007/Bone.008/Bone.009/Bone.023/Bone.023_end
+        weight: 1
+      - path: IK_1/Bone.001/Bone.014
+        weight: 1
+      - path: IK_1/Bone.001/Bone.014/Bone.014_end
+        weight: 1
+      - path: IK_1/Bone.010
+        weight: 1
+      - path: IK_1/Bone.010/Bone.017
+        weight: 1
+      - path: IK_1/Bone.010/Bone.017/Fuss_1
+        weight: 1
+      - path: IK_1/Bone.010/Bone.017/Fuss_1/Fuss_1_end
+        weight: 1
+      - path: IK_1/Bone.011
+        weight: 1
+      - path: IK_1/Bone.011/Bone.018
+        weight: 1
+      - path: IK_1/Bone.011/Bone.018/Bone.012
+        weight: 1
+      - path: IK_1/Bone.011/Bone.018/Bone.012/Bone.012_end
+        weight: 1
+      - path: IK_1/Bone.021
+        weight: 1
+      - path: IK_1/Bone.021/Bone.021_end
+        weight: 1
+      - path: IK_1/Bone.022
+        weight: 1
+      - path: IK_1/Bone.022/Bone.022_end
+        weight: 1
+      - path: IK_1/IK_1 1
+        weight: 1
+      - path: IK_1/IK_1 1/IK_1_end
+        weight: 1
+      - path: IK_1/IK_2
+        weight: 1
+      - path: IK_1/IK_2/IK_2_end
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: IK_1|Walk
+      takeName: IK_1|Walk
+      firstFrame: 0
+      lastFrame: 19
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: IK_1
+        weight: 1
+      - path: IK_1/Bone.001
+        weight: 1
+      - path: IK_1/Bone.001/Bone.002
+        weight: 1
+      - path: IK_1/Bone.001/Bone.002/Bone.003
+        weight: 1
+      - path: IK_1/Bone.001/Bone.002/Bone.003/Bone.003_end
+        weight: 1
+      - path: IK_1/Bone.001/Bone.004
+        weight: 1
+      - path: IK_1/Bone.001/Bone.004/Bone.005
+        weight: 1
+      - path: IK_1/Bone.001/Bone.004/Bone.005/Bone.006
+        weight: 1
+      - path: IK_1/Bone.001/Bone.004/Bone.005/Bone.006/Bone.020
+        weight: 1
+      - path: IK_1/Bone.001/Bone.004/Bone.005/Bone.006/Bone.020/Bone.020_end
+        weight: 1
+      - path: IK_1/Bone.001/Bone.007
+        weight: 1
+      - path: IK_1/Bone.001/Bone.007/Bone.008
+        weight: 1
+      - path: IK_1/Bone.001/Bone.007/Bone.008/Bone.009
+        weight: 1
+      - path: IK_1/Bone.001/Bone.007/Bone.008/Bone.009/Bone.023
+        weight: 1
+      - path: IK_1/Bone.001/Bone.007/Bone.008/Bone.009/Bone.023/Bone.023_end
+        weight: 1
+      - path: IK_1/Bone.001/Bone.014
+        weight: 1
+      - path: IK_1/Bone.001/Bone.014/Bone.014_end
+        weight: 1
+      - path: IK_1/Bone.010
+        weight: 1
+      - path: IK_1/Bone.010/Bone.017
+        weight: 1
+      - path: IK_1/Bone.010/Bone.017/Fuss_1
+        weight: 1
+      - path: IK_1/Bone.010/Bone.017/Fuss_1/Fuss_1_end
+        weight: 1
+      - path: IK_1/Bone.011
+        weight: 1
+      - path: IK_1/Bone.011/Bone.018
+        weight: 1
+      - path: IK_1/Bone.011/Bone.018/Bone.012
+        weight: 1
+      - path: IK_1/Bone.011/Bone.018/Bone.012/Bone.012_end
+        weight: 1
+      - path: IK_1/Bone.021
+        weight: 1
+      - path: IK_1/Bone.021/Bone.021_end
+        weight: 1
+      - path: IK_1/Bone.022
+        weight: 1
+      - path: IK_1/Bone.022/Bone.022_end
+        weight: 1
+      - path: IK_1/IK_1 1
+        weight: 1
+      - path: IK_1/IK_1 1/IK_1_end
+        weight: 1
+      - path: IK_1/IK_2
+        weight: 1
+      - path: IK_1/IK_2/IK_2_end
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

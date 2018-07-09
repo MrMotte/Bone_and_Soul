@@ -1,0 +1,219 @@
+fileFormatVersion: 2
+guid: 8367ad51c6c7ff24ab1c30d842c9c4e4
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Bauch
+    100004: Cube.001
+    100006: Daumen_1_L
+    100008: Daumen_1_R
+    100010: Daumen_2_L
+    100012: Daumen_2_L_end
+    100014: Daumen_2_R
+    100016: Daumen_2_R_end
+    100018: Fuss_L
+    100020: Fuss_L_end
+    100022: Fuss_R
+    100024: Fuss_R_end
+    100026: Hals
+    100028: Hand_1_L
+    100030: Hand_1_R
+    100032: Hand_2_L
+    100034: Hand_2_L_end
+    100036: Hand_2_R
+    100038: Hand_2_R_end
+    100040: "H\xFCft"
+    100042: IK_Ellbogen_L
+    100044: IK_Ellbogen_L.001
+    100046: IK_Ellbogen_L.001_end
+    100048: IK_Ellbogen_L_end
+    100050: IK_Ellbogen_R
+    100052: IK_Ellbogen_R_end
+    100054: IK_Fuss_L
+    100056: IK_Fuss_L_end
+    100058: IK_Fuss_R
+    100060: IK_Fuss_R_end
+    100062: IK_Hand_L
+    100064: IK_Hand_L_end
+    100066: IK_Hand_R
+    100068: IK_Hand_R_end
+    100070: IK_Knie_L
+    100072: IK_Knie_L_end
+    100074: IK_Knie_R
+    100076: IK_Knie_R_end
+    100078: Kopf
+    100080: Kopf_end
+    100082: OberArm_L
+    100084: OberArm_R
+    100086: Oberschenkel_L
+    100088: Oberschenkel_R
+    100090: Schulter_L
+    100092: Schulter_R
+    100094: Tod
+    100096: //RootNode
+    100098: Unterarm_L
+    100100: Unterarm_R
+    100102: Unterschenkel_L
+    100104: Unterschenkel_R
+    400000: Armature
+    400002: Bauch
+    400004: Cube.001
+    400006: Daumen_1_L
+    400008: Daumen_1_R
+    400010: Daumen_2_L
+    400012: Daumen_2_L_end
+    400014: Daumen_2_R
+    400016: Daumen_2_R_end
+    400018: Fuss_L
+    400020: Fuss_L_end
+    400022: Fuss_R
+    400024: Fuss_R_end
+    400026: Hals
+    400028: Hand_1_L
+    400030: Hand_1_R
+    400032: Hand_2_L
+    400034: Hand_2_L_end
+    400036: Hand_2_R
+    400038: Hand_2_R_end
+    400040: "H\xFCft"
+    400042: IK_Ellbogen_L
+    400044: IK_Ellbogen_L.001
+    400046: IK_Ellbogen_L.001_end
+    400048: IK_Ellbogen_L_end
+    400050: IK_Ellbogen_R
+    400052: IK_Ellbogen_R_end
+    400054: IK_Fuss_L
+    400056: IK_Fuss_L_end
+    400058: IK_Fuss_R
+    400060: IK_Fuss_R_end
+    400062: IK_Hand_L
+    400064: IK_Hand_L_end
+    400066: IK_Hand_R
+    400068: IK_Hand_R_end
+    400070: IK_Knie_L
+    400072: IK_Knie_L_end
+    400074: IK_Knie_R
+    400076: IK_Knie_R_end
+    400078: Kopf
+    400080: Kopf_end
+    400082: OberArm_L
+    400084: OberArm_R
+    400086: Oberschenkel_L
+    400088: Oberschenkel_R
+    400090: Schulter_L
+    400092: Schulter_R
+    400094: Tod
+    400096: //RootNode
+    400098: Unterarm_L
+    400100: Unterarm_R
+    400102: Unterschenkel_L
+    400104: Unterschenkel_R
+    4300000: Cube.001
+    4300002: Tod
+    7400000: Armature|Walk
+    9500000: //RootNode
+    13700000: Cube.001
+    13700002: Tod
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Kochen
+    second: {fileID: 2100000, guid: 9fb4d0b1f112ff6479f73a035395d01d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mantel
+    second: {fileID: 2100000, guid: 5f7b05331e1a6b249b2f80cfaf24522c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tod_Holz
+    second: {fileID: 2100000, guid: 7c3c9c7f7524a72469b17f7504f119df, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tod_Klinge
+    second: {fileID: 2100000, guid: 43efab9cfad5c374caa5e4da3822354b, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
